@@ -1,1 +1,1 @@
-# ml-project-crop-yield-prediction
+Developed a Crop Yield Prediction model using Random Forest Regressor by integrating rainfall, temperature, and agricultural data, achieving accurate yield estimation.
